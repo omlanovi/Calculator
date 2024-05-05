@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(44, 37, 51);
+    color: rgb(222, 210, 193);
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLs8OpbSMqMyv8pFV0gDg50qaKZnvz557a_34iH93-w&s);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+h1{
+    font-size: 45px;
+
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border-style: none;
+}
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
